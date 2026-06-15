@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-header.svg" width="100%" alt="Jayamini Pabasara Karunarathna — Information Technology Undergraduate, Aspiring Full-Stack Developer & Software Engineer" />
+<img src="profile-header.svg" width="100%" alt="Jayamini Pabasara Karunarathna - IT Undergraduate | QA Enthusiast | Full-Stack Developer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayamini-karunarathna/" target="_blank">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+MERN+%26+Spring+Boot;Building+scalable+web+%26+mobile+applications;Currently+exploring+full-stack+development+at+Skyrek;Open+to+Software+Engineering+Internships" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=IT+Undergraduate+at+SLIIT;Interested+in+QA+Testing+%26+Full-Stack+Development;Building+Projects+with+MERN+Stack+%26+Spring+Boot;Open+to+Internship+Opportunities" />
 
 <img src="https://komarev.com/ghpvc/?username=Jayamini127&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
@@ -22,17 +22,24 @@
 
 <br/>
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **BSc (Hons) in Information Technology** undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)** — expected 2027
-- 🌐 Specialized in **full-stack web development** with the **MERN stack**, **Spring Boot**, **Java**, and **MySQL**
-- 🧪 Passionate about building **scalable, reliable applications** and strengthening software quality through hands-on testing with **Postman** and **Playwright**
-- 📱 Also experienced in **Android app development** using **Kotlin** and **Android Studio**
-- 🌱 Currently sharpening my full-stack skills through a structured program at **Skyrek**
-- 🎯 Actively looking for a **Software Engineering / Web Development internship**
-- 📍 Based in Malabe, Sri Lanka
-
+- 🎓 IT Undergraduate at SLIIT (Expected Graduation: 2027)
+- 🧪 Interested in Quality Assurance Testing and Full-Stack Development
+- 💻 Experienced with MERN Stack, Spring Boot, React, Java, MySQL, and MongoDB
+- 🚀 Passionate about learning, building projects, and improving software quality
+- 🌱 Currently expanding my skills through academic and personal projects
+- 🎯 Seeking internship opportunities to gain industry experience
 <br/>
+
+## 🎯 Current Focus
+
+- 🧪 Learning Software Testing and QA Practices
+- 🚀 Building Full-Stack Web Applications
+- ⚙️ Exploring Test Automation with Playwright
+- 🌱 Strengthening Backend Development with Spring Boot
+- 🎯 Preparing for Internship Opportunities
+
 
 ## 🛠️ Tech Stack
 
@@ -161,51 +168,42 @@
 <br/>
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamini127&theme=react-dark&hide_border=true&area=true&custom_title=Jayamini%20Pabasara%27s%20Contribution%20Graph" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayamini127/Jayamini127/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayamini127/Jayamini127/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jayamini127/Jayamini127/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayamini127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayamini127&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Jayamini127&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayamini127&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayamini127&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
 
-<br/>
 
-## 📜 Certifications
-
-| Certification | Provider | Year |
-|---|---|---|
-| MongoDB Node.js Developer Path | MongoDB | 2026 |
-| Full-Stack Web Development *(in progress)* | Skyrek | 2026 – Present |
-| Advanced Diploma in English | Beeline English Academy | 2024 |
-
-<br/>
+## 📫 Connect With Me
 
 <div align="center">
 
-### 📫 Let's Connect
+<p>
+📧 <strong>Email:</strong> jayaminipabasara127@gmail.com
+</p>
 
-I'm always open to discussing new projects, internship opportunities, or just chatting about tech!
+<p>
+💼 <strong>LinkedIn:</strong><br/>
+<a href="https://www.linkedin.com/in/jayamini-karunarathna/">
+linkedin.com/in/jayamini-karunarathna
+</a>
+</p>
 
-📧 **jayaminipabasara127@gmail.com**
+<p>
+🐙 <strong>GitHub:</strong><br/>
+<a href="https://github.com/Jayamini127">
+github.com/Jayamini127
+</a>
+</p>
+
+<p>
+I'm open to internship opportunities, project collaborations, and connecting with fellow developers.
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
