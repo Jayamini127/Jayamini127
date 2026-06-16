@@ -16,7 +16,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=IT+Undergraduate+at+SLIIT;Interested+in+QA+Testing+%26+Full-Stack+Development;Building+Projects+with+MERN+Stack+%26+Spring+Boot;Open+to+Internship+Opportunities" />
 
-<img src="https://komarev.com/ghpvc/?username=Jayamini127&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
+
 
 </div>
 
@@ -36,7 +36,7 @@
 
 - 🧪 Learning Software Testing and QA Practices
 - 🚀 Building Full-Stack Web Applications
-- ⚙️ Exploring Test Automation with Playwright
+- ⚙️ Exploring Test Automation and API Testing
 - 🌱 Strengthening Backend Development with Spring Boot
 - 🎯 Preparing for Internship Opportunities
 
@@ -184,7 +184,10 @@
 <div align="center">
 
 <p>
-📧 <strong>Email:</strong> jayaminipabasara127@gmail.com
+📧 <strong>Email:</strong><br/>
+<a href="mailto:jayaminipabasara127@gmail.com">
+jayaminipabasara127@gmail.com
+</a>
 </p>
 
 <p>
