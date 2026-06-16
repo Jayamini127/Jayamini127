@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/jayamini-karunarathna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jayaminipabasara127@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jayaminipabasara127@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/Jayamini127" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -99,8 +99,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏫 Campus Core Hub</h3>
-      <i>Smart Campus Operation Hub</i>
+     <h3>🏫 Campus Core Hub</h3>
+<i>Smart Campus Operation Hub</i>
+
+<p>
+  <a href="https://github.com/NeshanAbeysooriya/IT3030-paf-2026-smart-campus-group63">🔗 Repository</a>
+</p>
       <p>A smart campus management platform that improves campus operations and student services, featuring booking management and conflict-checking for resource scheduling. REST APIs were integrated and tested using Postman.</p>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -109,7 +113,11 @@
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ Uni Serve</h3>
-      <i>Canteen Pre-Order & Crowd Control System</i>
+<i>Canteen Pre-Order & Crowd Control System</i>
+
+<p>
+  <a href="https://github.com/NeshanAbeysooriya/ITPM-Web-Project-UNISERVE-Canteen-Crowd-Control-System">🔗 Repository</a>
+</p>
       <p>A canteen pre-order system with slot-based crowd management to reduce congestion and improve ordering efficiency, including booking management for food order reservations.</p>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
